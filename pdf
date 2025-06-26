@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>I Am Malala - Summary by Krishnasingh</title>
+  <style>
+    body {
+      background: #f0f8ff;
+      font-family: 'Segoe UI', sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #1a237e;
+    }
+    p {
+      font-size: 18px;
+      color: #333;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 30px;
+      padding: 15px 30px;
+      background-color: #3949ab;
+      color: white;
+      font-size: 18px;
+      text-decoration: none;
+      border-radius: 10px;
+      transition: background-color 0.3s ease;
+    }
+    .btn:hover {
+      background-color: #303f9f;
+    }
+    footer {
+      margin-top: 50px;
+      font-style: italic;
+      color: #555;
+    }
+  </style>
+</head>
+<body>
+
+  <h1>I Am Malala - Chapter Summaries</h1>
+  <p>Krishnasingh, Creator of this Website, Created this Website for Nilay Vakode to Download this PDF File.</p>
+
+  <a href="I_Am_Malala_Chapter_Summaries.pdf" class="btn" download>
+    I am Malala - Summary Download by Krishnasingh
+  </a>
+
+  <footer>
+    &copy; 2025 Krishnasingh. All rights reserved.
+  </footer>
+
+</body>
+</html>
